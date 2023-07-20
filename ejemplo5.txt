@@ -1,0 +1,7 @@
+var1 = 1
+var2 = 2 + var
+var3 = 3 - id
+var4 = var * 4
+var5 = var / 5
+algo = 6
+$
